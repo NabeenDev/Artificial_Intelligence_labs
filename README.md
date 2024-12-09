@@ -1,3 +1,4 @@
-# Name : M.Nabeen
-# ID : BIT-23F-056
-# Course : Artificial Intelligence
+# M.Nabeen
+# BIT-23F-056
+# Artificial Intelligence
+# Information Technology
